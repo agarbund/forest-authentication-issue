@@ -1,0 +1,11 @@
+{
+  "collections": [],
+  "meta": {
+    "database_type": "postgres",
+    "liana": "forest-express-sequelize",
+    "liana_version": "7.8.0",
+    "engine": "nodejs",
+    "engine_version": "12.14.0",
+    "orm_version": "5.15.2"
+  }
+}
